@@ -1,2 +1,2 @@
 ﻿# Belettered
-Excel-based letter matching game.
+An Excel-based letter matching game
